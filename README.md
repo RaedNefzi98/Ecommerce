@@ -12,7 +12,7 @@ Then there's sanity's configuration that needs to be done using the commands
 
 <h3 align="left">Youtube video shocasing the project : </h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://youtu.be/-n-m97waepy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/-n-m97waepy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=-n-m97waePY&ab_channel=raed.N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/-n-m97waepy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
